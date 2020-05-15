@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-26T02:37:28Z" name="Command line suite" finished-at="2020-04-26T02:37:28Z" duration-ms="28">
+    <groups>
+    </groups>
+    <test started-at="2020-04-26T02:37:28Z" name="Command line test" finished-at="2020-04-26T02:37:28Z" duration-ms="28">
+      <class name="TestCases.SeleniumTest">
+        <test-method signature="openbrowse()[pri:0, instance:TestCases.SeleniumTest@66d1af89]" started-at="2020-04-26T02:37:28Z" name="openbrowse" finished-at="2020-04-26T02:37:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowse -->
+        <test-method signature="login()[pri:0, instance:TestCases.SeleniumTest@66d1af89]" started-at="2020-04-26T02:37:28Z" name="login" finished-at="2020-04-26T02:37:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestCases.SeleniumTest -->
+      <class name="TestCases.AppiumTest">
+        <test-method signature="delete()[pri:0, instance:TestCases.AppiumTest@4a87761d]" started-at="2020-04-26T02:37:28Z" name="delete" finished-at="2020-04-26T02:37:28Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- TestCases.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
